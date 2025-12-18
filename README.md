@@ -1,4 +1,8 @@
 # 🍽️ Análise do Setor de Alimentação no Brasil: Explorando Mercado para Expansão no Power BI
+<p align="left">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/status-concluído-brightgreen?style=for-the-badge" alt="Status: Concluído"/>
+</p>
 
 Este repositório contém o relatório desenvolvido em **Power BI** com foco no setor de alimentação no Brasil. O objetivo principal é identificar oportunidades de expansão para novos negócios, analisando dados públicos e transformando‐os em insights
 
