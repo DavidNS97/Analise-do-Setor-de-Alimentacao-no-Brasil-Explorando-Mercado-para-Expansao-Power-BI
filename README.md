@@ -189,7 +189,7 @@ Portanto, o setor possui oportunidade real de crescimento, desde que sustentada 
 
 ## 📬 Contato
 
-🔗 LinkedIn: *[seu link](https://www.linkedin.com/in/davidnunes9/)*
+🔗 LinkedIn: *(https://www.linkedin.com/in/davidnunes9/)*
 
 ---
 
