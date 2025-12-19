@@ -151,6 +151,14 @@ Quadrante Inferior Direito – Baixa densidade, alta mortalidade :Áreas com mui
 Índice de Oportunidade:
  As três cidades com melhor desempenho são: Americas/SP, Ananindeua/PA e Anápolis/GO, considerando critérios como densidade de mercado e taxa de mortalidade;
 
+### Iniciativas recomendadas 
+
+- **Pesquisa de Mercado Regional**
+- **Estratégia de Entrada Piloto**
+- **Fortalecimento de Gestão Financeira e Compliance**
+
+---
+
 ##  Conclusões
 
 O setor de alimentação no Brasil apresenta um cenário ambíguo: ao mesmo tempo em que evidencia forte  potencial de expansão  impulsionado pelo aumento do consumo fora do lar, pela consolidação do delivery , também revela fragilidades estruturais que comprometem a longevidade dos negócios.
@@ -168,13 +176,6 @@ Portanto, o setor possui oportunidade real de crescimento, desde que sustentada 
 - E adequação do modelo de negócio às novas dinâmicas de consumo, especialmente delivery e consumo rápido.
 
 
-### Iniciativas recomendadas 
-
-- **Pesquisa de Mercado Regional**
-- **Estratégia de Entrada Piloto**
-- **Fortalecimento de Gestão Financeira e Compliance**
-
----
 
 ## Como Executar o Relatório
 
