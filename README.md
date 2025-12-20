@@ -7,7 +7,7 @@
 Este repositório contém o relatório desenvolvido em **Power BI** com foco no setor de alimentação no Brasil. O objetivo principal é identificar oportunidades de expansão para novos negócios, analisando dados públicos e transformando‐os em insights
 
 🔗 **Acesse o Dashboard:**  
-👉 https://sites.google.com/view/analise-setor-alimentacao-br?usp=sharing
+👉 https://sites.google.com/view/analise-setor-alimentacao-br?usp=sharing  (clique com o botão direito → Abrir em nova aba)
 
 ---
 
@@ -194,7 +194,7 @@ Portanto, o setor possui oportunidade real de crescimento, desde que sustentada 
 
 ## 📬 Contato
 
-🔗 LinkedIn: *(https://www.linkedin.com/in/davidnunes9/)*
+🔗 LinkedIn: [David Nunes](https://www.linkedin.com/in/davidnunes9/) (clique com o botão direito → Abrir em nova aba)
 
 ---
 
