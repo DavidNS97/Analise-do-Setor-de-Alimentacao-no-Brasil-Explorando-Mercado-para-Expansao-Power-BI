@@ -156,9 +156,9 @@ Quadrante Inferior Direito – Baixa densidade, alta mortalidade :Áreas com mui
 
 ### Iniciativas recomendadas 
 
-- **Pesquisa de Mercado Regional**
-- **Estratégia de Entrada Piloto**
-- **Fortalecimento de Gestão Financeira e Compliance**
+- **Pesquisa de Mercado Regional** -Realizar estudos locais de comportamento do consumidor e análise competitiva
+- **Estratégia de Entrada Piloto** - Adotar modelo piloto em uma cidade de cada região (SP, PA e GO) para validar o formato de negócio antes da escalabilidade. 
+- **Fortalecimento de Gestão Financeira e Compliance** -Criar programas internos de governança e capacitação voltados a controladoria, contabilidade e gestão fiscal, reduzindo riscos de inatividade por omissão
 
 ---
 
