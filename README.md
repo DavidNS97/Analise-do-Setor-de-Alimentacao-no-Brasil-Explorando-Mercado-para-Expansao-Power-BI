@@ -143,8 +143,11 @@ Esses resultados indicam que a inatividade no setor está fortemente associada a
 A análise de quadrantes demonstra:
 
 Quadrante Superior Esquerdo – Alta densidade, baixa mortalidade: Representa estados com poucas empresas em relação à população e baixo risco de fechamento.: Oportunidade ideal para expansão: mercado com demanda potencial alta e risco baixo. 
+
 Quadrante Superior Direito – Alta densidade, alta mortalidade: Estado com poucas empresas, mas mercado arriscado. •Requer análise cautelosa: pode haver oportunidade, mas o risco de insucesso é maior; é necessário avaliar fatores locais antes de investir.
+
 Quadrante Inferior Esquerdo – Baixa densidade, baixa mortalidade: Mercados saturados (muitas empresas para a população) mas seguros. Expansão pode ser menos prioritária, pois a competição é intensa, embora o risco seja menor. 
+
 Quadrante Inferior Direito – Baixa densidade, alta mortalidade :Áreas com muitas empresas e alto risco de fechamento. Pouco atraente para expansão; mercado competitivo e instável, exige estratégias diferenciadas ou investimento mínimo 
 
 
